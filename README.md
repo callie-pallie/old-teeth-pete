@@ -1,5 +1,11 @@
-# CollectionBuilder-CSV
+# Old Teeth Pete
 
+This is just an example project 
+
+1. old
+2. teeth
+3. pete
+   
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
 The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
